@@ -1,0 +1,38 @@
+body {
+	background-color: #221d1d;
+}
+
+.code  { 
+		background-color: #221d1d;
+		color: white;
+}
+
+.code .row:nth-child(2) {
+	background-color: #796e6e57;
+	padding: 10px;
+}
+
+.tabs .active {
+		background-color: #221d1d !important;
+}
+
+#color {
+	padding-left: 10px;
+}
+
+#divPreview {
+	text-align: left;
+}
+
+#divPreview .divContentFaviconList {
+	margin:10px 30px; float:none; display: inline-block; text-align: initial;
+}
+
+#divPreview .divContentFaviconList .divContentFavicon {
+	text-align: center;
+	padding: 30px;
+}
+
+#divPreview .divContentFaviconList .divContentFavicon .preview {
+	
+}
